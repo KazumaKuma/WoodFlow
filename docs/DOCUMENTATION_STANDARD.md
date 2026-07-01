@@ -1,3 +1,13 @@
+---
+Project: WoodFlow
+Document: Documentation Standard
+Version: v0.1.0
+Status: Active
+Author: Kazuma Kuma
+Created: 2026-07-01
+Last Updated: 2026-07-01
+---
+
 # WoodFlow Documentation Standard
 
 ## Purpose
@@ -8,7 +18,7 @@ The goal is to keep all project documentation consistent, readable and maintaina
 
 ## Standard Document Header
 
-Every Markdown document within the project should begin with the following metadata block:
+Every project documentation Markdown document within the project should begin with the following metadata block:
 
 ```yaml
 ---

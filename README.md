@@ -97,4 +97,4 @@ Crafted with gratitude.
 > "Whatever you do, work at it with all your heart,
 > as working for the Lord and not for men."
 
-— Colossians 3:23
+— Colossians 3:2

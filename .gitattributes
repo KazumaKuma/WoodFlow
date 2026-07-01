@@ -1,0 +1,21 @@
+# Automatically normalize line endings
+* text=auto
+
+# Markdown
+*.md text eol=lf
+
+# Source code
+*.ts text eol=lf
+*.tsx text eol=lf
+*.js text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+
+# Images
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.svg text
+
+# Documents
+*.pdf binary
