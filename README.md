@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  WoodFlow
 
 > Simple inventory. Smarter cutting. Less waste.
@@ -98,3 +99,7 @@ Crafted with gratitude.
 > as working for the Lord and not for men."
 
 — Colossians 3:23
+=======
+# WoodFlow
+Description: Professional woodworking inventory and cutting optimization software.
+>>>>>>> c39dff390caa1431124c82c62a756258ae324bc3
